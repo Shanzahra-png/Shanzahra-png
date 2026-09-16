@@ -1,6 +1,6 @@
 # Hi, I'm Shan Zahra 👋
 
-🎓 **MPhil Data Science Student** (Thesis Submitted, Viva Pending)
+🎓 **MPhil Data Science Student** 
 
 ## About Me
 I am passionate about Artificial Intelligence, Natural Language Processing, and Financial AI. My research focuses on applying deep learning and transformer-based models to analyze financial text and understand the impact of central bank communication on financial markets.
