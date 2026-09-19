@@ -1,6 +1,6 @@
 # Hi, I'm Shan Zahra 👋
 
-🎓 **MPhil Data Science Student** 
+🎓 **MS Data Science Graduate** 
 
 ## About Me
 I am passionate about Artificial Intelligence, Natural Language Processing, and Financial AI. My research focuses on applying deep learning and transformer-based models to analyze financial text and understand the impact of central bank communication on financial markets.
@@ -12,10 +12,12 @@ I am passionate about Artificial Intelligence, Natural Language Processing, and 
 - Financial AI
 - Large Language Models (LLMs)
 - Text Mining
+- Trustworthy & human-centered AI
+- Information retrieval & RAG
 
 ## Current Research
 **Quantifying ECB Speech Tone and Its Influence on the European Bond Market Through Financial Signal Extraction**
-
+Now moving towards RAG and Evidence grounded retrieval...
 ## Technical Skills
 - Python
 - PyTorch
@@ -24,7 +26,13 @@ I am passionate about Artificial Intelligence, Natural Language Processing, and 
 - NumPy
 - Hugging Face Transformers
 - Git & GitHub
-
+  
+## Tools used
+- GitHub
+- Vscode
+- Tableau
+- Googlecolab
+  
 ## Currently Looking For
 🎯 Fully Funded PhD Opportunities in:
 - Artificial Intelligence
