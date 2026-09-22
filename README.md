@@ -3,7 +3,7 @@
 🎓 **MS Data Science Graduate** 
 
 ## About Me
-I am passionate about Artificial Intelligence, Natural Language Processing, and Financial AI. My research focuses on applying deep learning and transformer-based models to analyze financial text and understand the impact of central bank communication on financial markets.
+I am passionate about Artificial Intelligence, Natural Language Processing, and Financial AI. After my graduation , i want to expand my knowledge to deployment.I'm also spending time into RAG and Agents develpment. My research focuses on applying deep learning and transformer-based models to analyze financial text and understand the impact of central bank communication on financial markets.
 
 ## Research Interests
 - Natural Language Processing (NLP)
