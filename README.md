@@ -40,9 +40,7 @@ Now moving towards RAG and Evidence grounded retrieval...
 - Machine Learning
 - NLP
 - Financial Computing
+**Let's connect**
+**linkdin!** https://www.linkedin.com/in/shan-zahra-585265278?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-📫 **Let's connect on LinkedIn!**
-https://www.linkedin.com/in/shan-zahra-585265278?utm_source=share_via&utm_content=profile&utm_medium=member_android
-
- **Let's connect on kaggle!**
-https://www.kaggle.com/sukananaqvi
+ **kaggle!** https://www.kaggle.com/sukananaqvi
